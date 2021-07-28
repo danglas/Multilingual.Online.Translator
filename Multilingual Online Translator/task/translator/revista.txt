@@ -1,0 +1,28 @@
+Arabic Translation:
+مجلة
+
+Arabic Example:
+Esto es de la revista "Nature".
+هذا اقتراح تم الحديث حوله في أوروبا كان ذلك من مجلة "Nature".
+
+German Translation:
+Zeitschrift
+
+German Example:
+Así que decidí crear mi propia revista.
+Also habe ich beschlossen, meine eigene Zeitschrift zu gründen.
+
+English Translation:
+magazine
+
+English Example:
+Edita la revista El Ingeniero Sirio.
+It issues a magazine called The Syrian Engineer.
+
+French Translation:
+magazine
+
+French Example:
+Imprimieron toda la revista al revés.
+Ils ont imprimé le magazine entier à l'envers.
+

@@ -1,0 +1,84 @@
+Arabic Translation:
+خارج
+
+Arabic Example:
+Darkwood había trasladado un segundo armazón fuera del hangar para nuevos trabajos.
+ونقلت شركة Darkwood هيكل الجسم الثاني إلى خارج الحظيرة لإجراء المزيد من العمل.
+
+German Translation:
+draußen
+
+German Example:
+Es obvio que miras dentro desde fuera.
+Es ist offensichtlich, dass Sie draußen sind und nach innen schauen.
+
+English Translation:
+out
+
+English Example:
+Tendremos que llevarlo fuera del edificio.
+We'll have them carry it out of the building.
+
+French Translation:
+dehors
+
+French Example:
+Ahora, necesito estar fuera protegiéndolas.
+Maintenant, il faut que je sois dehors pour les protéger.
+
+Hebrew Translation:
+בחוץ
+
+Hebrew Example:
+Tarzán avanza. Troyzan está fuera.
+טרזן ממשיך הלאה, טרויזן בחוץ, ללא סיכוי לחסינות.
+
+Japanese Translation:
+外に
+
+Japanese Example:
+Hay gente fuera leal a mi.
+外には、私に忠実な人間が居る
+
+Dutch Translation:
+buiten
+
+Dutch Example:
+Otras acciones anuales fuera del programa marco.
+Andere jaarlijkse werkzaamheden buiten het kaderprogramma (APAS).
+
+Polish Translation:
+poza
+
+Polish Example:
+Nunca esperé que fuera así de difícil.
+Nie spodziewałem się, że to będzie tak ciężkie.
+
+Portuguese Translation:
+fora
+
+Portuguese Example:
+Sería absurdo negar que fuera está lloviendo.
+Seria absurdo negar que está a chover lá fora.
+
+Romanian Translation:
+afară
+
+Romanian Example:
+Probablemente porque estuviste fuera del margen esos 6 meses.
+Probabil din cauza ca ai fost afara din sediu timp de 6 luni.
+
+Russian Translation:
+снаружи
+
+Russian Example:
+Al llegar vi que reparaban una nave alienígena fuera.
+Когда мы пристыковались, я увидел инопланетный корабль, пришвартованный снаружи.
+
+Turkish Translation:
+dışarıda
+
+Turkish Example:
+Perdóneme por ofrecerle el té fuera.
+Size dışarıda çay ikram ettiğim için ben bağışlayın.
+
